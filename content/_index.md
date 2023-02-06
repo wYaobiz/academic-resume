@@ -36,12 +36,14 @@ sections:
   #       gradient_start: '#004ba0'
   #       text_color_light: true
   - block: about.avatar
-    id: bio
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      columns: '2'
   - block: features
     content:
       title: Skills
