@@ -13,6 +13,9 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+authors:
+  - admin
+
 # Role/position/tagline
 role: Research Assistant
 
@@ -77,7 +80,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor Guiling (Grace) Wang and Professor Fadi P. Deek.
