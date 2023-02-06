@@ -42,6 +42,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      bio:
     design:
       columns: '2'
   - block: features
