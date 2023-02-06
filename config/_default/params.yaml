@@ -13,19 +13,19 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Person
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+#     twitter: 'wowchemy'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
 
@@ -104,9 +104,6 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
   academicons:
     enable: true
 
