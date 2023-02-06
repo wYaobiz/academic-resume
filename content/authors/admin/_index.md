@@ -82,13 +82,5 @@ highlight_name: true
 
 Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor Guiling (Grace) Wang and Professor Fadi P. Deek.
 
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor Guiling (Grace) Wang and Professor Fadi P. Deek.
-
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor Guiling (Grace) Wang and Professor Fadi P. Deek.
-
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor Guiling (Grace) Wang and Professor Fadi P. Deek.
-
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor Guiling (Grace) Wang and Professor Fadi P. Deek.
-
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 <!-- {style="text-align: justify;"} -->
